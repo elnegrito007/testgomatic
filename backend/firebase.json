@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": "app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/.git/**",
+      "**/modelos/**",
+      "**/node_modules/**",
+      "**/miselaneos/**"
+    ]
+  }
+}
